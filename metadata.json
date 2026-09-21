@@ -1,0 +1,6 @@
+{
+  "name": "Vynora",
+  "description": "Next-generation multi-category online shopping platform with AI-powered search, order tracking, and CI/CD ready architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
